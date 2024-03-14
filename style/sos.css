@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+li{
+    list-style: none;
+}
+.container{
+width: 1440px;
+height: 960px;
+
+background-image: url("../image/bg\ image\ 1.png");
+}
+
+.navbar{
+display: flex;
+}
+
+.header-logo{
+    padding-top: 21.11px;
+    padding-left: 119.68px;
+}
+
+.item{
+    display: flex;
+    gap: 32px;
+padding-left: 146px;
+padding-top: 43px;
+}
+
+.list-link{
+color: white;
+text-decoration: none;
+}
